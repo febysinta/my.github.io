@@ -1,0 +1,17 @@
+.jumbotron {
+   padding-top: 5rem;
+    background-color: rgb(200, 142, 167);
+}
+/* body {
+    min-height: 3000px;
+} */
+#galery {
+    background-color: rgb(200, 142, 167);
+}
+footer {
+    background-color: #643843;
+    color: white;
+}
+section {
+    padding-top: 5rem;
+}
